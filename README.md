@@ -66,15 +66,8 @@ If you don't know how to acess an SFTP server, here is two tutorials.
 4. Get into public_html dir with ``` cd public_html ```
 5. Use ``` put myFile ``` to put your files in your directory
 6. Your site will be accessible on the following URL: https://ic-people.epfl.ch/~username/
-7. That's it!
+7. That's it, you're all set!
 
-### Confidentiality and sharing data 
-As a cloud-based service provider, Slack has a privacy policy within the scope of the General Data Protection Regulation (GDPR). However, we strongly recommend not to share personal data and confidential data. Particular attention needs to be given to Research Data or data that could lead to patents. 
-
-The EPFL-IC slack account is based on an educational license. Information and discussions should therefore relate to educational topics or projects.
-Any data added to slack will remain available even after the departure of the user or if the slack account has been deactivated.
-
-### File storage
 ##### Administrators
 The main administrators of the IC-People platform with full access to all content:
 * Set-up & IT support: support-icit@epfl.ch
