@@ -23,8 +23,8 @@ Keep in mind that :
 * Content is added manually
 * Freedom to choose between the available templates: 1) ready-to-use modular based, 2) minimalist header + footer, or 3) blank page.
 * Files on GitHub: Readme guidelines, CSS/JS/html that can be customized and adapted as needed
-* Minimal support needed
-* Data compliance + end of report (delete page/content) according to LEX and the data protection officer (according to the EPFL policy).
+* Minimal support for self-starter
+* Data compliance and deletion of content according to LEX and EPFL policy.
 
 ### EPFL identity with graphical elements.
 
