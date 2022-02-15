@@ -19,7 +19,7 @@ Keep in mind that :
 ### Summary
 * EPFL domain name: ic-people.epfl.ch/~username/
 * Personal page/business card to showcase research
-* No retrieval of contact information, etc. from EPFL databases
+* No retrieval of information from EPFL databases
 * Content is added manually
 * Freedom to choose between the available templates: 1) ready-to-use modular based, 2) minimalist header + footer, or 3) blank page.
 * Files on GitHub: Readme guidelines, CSS/JS/html that can be customized and adapted as needed
