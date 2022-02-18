@@ -49,7 +49,7 @@ If you don't know how to acess an SFTP server, here is two tutorials.
 
 <img src="img1.png" alt="drawing" width="500"/>
 
-4. At the top click on SFTP
+4. At the top select SFTP
 5. In the server field enter: ic-people-files.epfl.ch
 6. For the field username and password: use your GasparAccount.
 
