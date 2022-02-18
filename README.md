@@ -32,29 +32,31 @@ Keep in mind that :
 
 1. Setup
 
-For hosting the files, we use an SFTP server. You have to be connected to EPFL VPN (https://www.epfl.ch/campus/services/ressources-informatiques/network-services-reseau/acces-intranet-a-distance/clients-vpn-disponibles/).  <br />
+For hosting the files, we use an SFTP server. You have to be connected to EPFL VPN (https://www.epfl.ch/campus/services/ressources-informatiques/network-services-reseau/acces-intranet-a-distance/clients-vpn-disponibles/).
 
 2. Access infos :
-* Host: ic-people-files.epfl.ch <br />
-* Username: Gaspar Username <br />
-* Password: Gaspar Password <br />
-* Index folder: public_html <br />
+* Host: ic-people-files.epfl.ch
+* Username: Gaspar Username
+* Password: Gaspar Password
+* Index folder: public_html
 
 If you don't know how to acess an SFTP server, here is two tutorials.
 
 ##### 1.1 Windows/MacOS
 1. Go to https://cyberduck.io/download/
 2. Download and install it
-3. Go on the application and click on the button circled in red on the image. Once in this menu press the + at the bottom left
-<img src="https://user-images.githubusercontent.com/45627872/121321032-083ef180-c90e-11eb-8a45-ab0f3c7bb348.png" width="750"/>
+3. Go on the application and click on the button circled in red on the image.
+
+<img src="img1.png" alt="drawing" width="500"/>
+
 4. At the top click on SFTP
 5. In the server field enter: ic-people-files.epfl.ch
 6. For the field username and password: use your GasparAccount.
 
-![image](https://user-images.githubusercontent.com/45627872/117404521-5aa18280-af0a-11eb-9bd2-b8f395b06322.png)
+<img src="img2.png" alt="drawing" width="500"/>
 
-7. Next, close the window
-8. Double click on the connection and click on allow
+7. Next, click on connect
+8. Click on allow
 9. Double click on public_html
 10. Here you can place your files
 11. Your site will be accessible on the following URL: https://ic-people.epfl.ch/~username/
