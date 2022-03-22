@@ -1,0 +1,27 @@
+.associations-list a{
+  width: 50%;
+ }
+
+.associations-list {
+ display: flex;
+ flex-wrap: wrap;
+}
+
+
+.associations-logo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.associations-list img {
+  height: 60px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .associations-list a{
+    min-width: 100%;
+   }
+}

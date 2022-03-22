@@ -1,0 +1,47 @@
+ .career ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.career li {
+  display: flex;
+  border-bottom: 1px solid #c1c1c1;
+  padding-bottom: 1.5rem;
+}
+
+.career li:not(:first-child) {
+  padding-top: 1.5rem;
+}
+
+.career li:last-child {
+  border-bottom: none;
+}
+
+.career-infos {
+  padding-left: 2rem;
+}
+
+.career-logo {
+  width: 80px; 
+}
+
+.career-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.career img {
+  width: 80px;
+  height: auto;
+}
+
+.career-infos-title {
+  margin-bottom: 0;
+}
+
+.career-infos-desc {
+  margin: 1rem 0 0;
+  font-size: 0.8rem
+}

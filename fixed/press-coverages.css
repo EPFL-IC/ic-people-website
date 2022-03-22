@@ -1,0 +1,31 @@
+.press-coverage div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.press-coverage img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.press-coverage .card {
+  display: block;
+  min-width: 33%;
+  max-width: 33%;
+  height: 10rem;
+  margin: 0;
+  padding: 1rem;
+  border: 1px solid rgba(33, 33, 33, 0.125);
+}
+
+@media (max-width: 1024px) {
+  .press-coverage {
+    margin-bottom: 2rem;
+  }
+
+  .press-coverage .card {
+    min-width: 50%;
+    max-width: 50%;
+  }
+}
