@@ -1,11 +1,3 @@
-# EPFL x IC-People 
-
-## Guidelines
-
-### Version 1.0
-17.02.2022 (latest update)
-
-
 ## 1. IC-People
 IC-People is a local hosting service with an EPFL domain name provided by the School of Computer and Communication Sciences (IC) for:
 1) All PhD and MA students to showcase their research 
