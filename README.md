@@ -43,7 +43,7 @@ template with a branded header and footer. You can fill in your content freely.
 #### 4.2.1. Base with header & footer 
 https://epfl-ic.github.io/examples/version-minimal.html
 
-#### 4.3. Without template
+### 4.3. Without template
 It’s possible to request an empty page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
 
 ## 5. Rules for publication 
