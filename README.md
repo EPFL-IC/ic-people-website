@@ -37,19 +37,19 @@ To help build your webpage, there are two main templates available:
 We’ve created easy and ready-to-use modular based templates with CSS/JS/html blocks that can be customized and adapted to your content.  
 
 #### 4.1.1. Base with large photo 
-https://antistatique.github.io/mypage-test-template/
+https://epfl-ic.github.io/
 #### 4.1.2. Base with medium sized photo 
-https://antistatique.github.io/mypage-test-template/examples/version-image-medium.html
+https://epfl-ic.github.io/examples/version-image-medium.html
 #### 4.1.3. Base with small photo 
-https://antistatique.github.io/mypage-test-template/examples/version-image-small.html
+https://epfl-ic.github.io/examples/version-image-small.html
 #### 4.1.4. Example Master student with medium sized photo 
-https://antistatique.github.io/mypage-test-template/examples/version-layout-master.html
+https://epfl-ic.github.io/examples/version-layout-master.html
 ### 4.2. Minimalist Template
 If you do not wish to use any of the modular blocks, we’ve created a minimalist
 template with a branded header and footer. You can fill in your content freely.
 
 #### 4.2.1. Base with header & footer 
-https://antistatique.github.io/mypage-test-template/examples/version-minimal.html
+https://epfl-ic.github.io/examples/version-minimal.html
 
 #### 4.3. It’s possible to request an empty page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
 
