@@ -43,7 +43,8 @@ template with a branded header and footer. You can fill in your content freely.
 #### 4.2.1. Base with header & footer 
 https://epfl-ic.github.io/examples/version-minimal.html
 
-#### 4.3. It’s possible to request an empty page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
+#### 4.3. Without template
+It’s possible to request an empty page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
 
 ## 5. Rules for publication 
 Use of this hosting service is permitted to the extent that it is consistent with the EPFL and applicable laws.
@@ -69,6 +70,7 @@ In case of departure from EPFL, in accordance with LEX 6.1.4, there will be a gr
 1. MA students after one months
 2. PhD students after six months
 3. and Professors on the last day of their accreditation.
+
 Find out more:
 https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/mail/persons-arrival-and-departure/
 
@@ -85,7 +87,7 @@ The following describes the accountability for the service and who manages each 
 
 <img src="img3.png" alt="drawing" width="500"/>
 
-(Nb: The reference used for this service is here: Request a website ‒ Website ‐ EPFL although all options are of course not available, please ask IC IT for details and current capability).
+(Nb: The reference used for this service is here: [Request a website ‒ Website ‐ EPFL](https://www.epfl.ch/campus/services/website/request-a-website/) although all options are of course not available, please ask IC IT for details and current capability).
 
 
 ## 10. Getting started
