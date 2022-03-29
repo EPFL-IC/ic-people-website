@@ -44,7 +44,7 @@ template with a branded header and footer. You can fill in your content freely.
 https://epfl-ic.github.io/examples/version-minimal.html
 
 ### 4.3. Without template
-It’s possible to request an empty page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
+It’s possible to request a blank page for you to import your content. We do however strongly encourage the use of one of the templates at your disposal which incorporates EPFL visual identity elements. 
 
 ## 5. Rules for publication 
 Use of this hosting service is permitted to the extent that it is consistent with the EPFL and applicable laws.
@@ -102,7 +102,7 @@ For hosting the files, we use an SFTP server. You have to be connected to EPFL V
 * Password: Gaspar Password
 * Index folder: public_html
 
-If you don't know how to acess an SFTP server, here is two tutorials.
+If you don't know how to acess an SFTP server, here are two tutorials.
 
 ### 10.3. Windows/MacOS
 1. Go to https://cyberduck.io/download/
